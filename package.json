@@ -1,0 +1,22 @@
+{
+  "name": "hiking",
+  "version": "0.0.1",
+  "description": "Yet another amateur web framework, I guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i9or/hiking.git"
+  },
+  "keywords": [
+    "oh",
+    "boy",
+    "not",
+    "this",
+    "again"
+  ],
+  "author": "Igor <dont@bzzr.me> (https://ignorethis.page/)",
+  "license": "AGPL-3.0-only"
+}
