@@ -11,4 +11,5 @@ Hope, I'll get away with it:
 - [ ] Scaffolding + CLI
 - [ ] TypeScript everywhere
 - [ ] Automatic reload?
+- [ ] Models with validation
 - [ ] Oh, da do da day!
